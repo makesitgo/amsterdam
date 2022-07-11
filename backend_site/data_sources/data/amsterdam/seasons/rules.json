@@ -1,0 +1,24 @@
+{
+    "collection": "seasons",
+    "database": "amsterdam",
+    "roles": [
+        {
+            "name": "admin",
+            "apply_when": {
+                "%%user.data.email": "npm622@yahoo.com"
+            },
+            "read": true,
+            "write": true,
+            "insert": true
+        },
+        {
+            "name": "readAll",
+            "apply_when": {},
+            "read": true,
+            "write": false,
+            "insert": false,
+            "delete": false,
+            "search": true
+        }
+    ]
+}
