@@ -1,0 +1,9 @@
+{
+    "name": "data",
+    "type": "mongodb",
+    "config": {},
+    "secret_config": {
+        "uri": "__data_uri"
+    },
+    "version": 1
+}

@@ -1,0 +1,25 @@
+{
+    "anon-user": {
+        "name": "anon-user",
+        "type": "anon-user",
+        "disabled": false
+    },
+    "api-key": {
+        "name": "api-key",
+        "type": "api-key",
+        "disabled": true
+    },
+    "local-userpass": {
+        "name": "local-userpass",
+        "type": "local-userpass",
+        "config": {
+            "autoConfirm": false,
+            "confirmEmailSubject": "Confirm your email address.",
+            "emailConfirmationUrl": "http://localhost:3001/confirm_email",
+            "resetPasswordSubject": "Here's a link to reset your password.",
+            "resetPasswordUrl": "https://localhost:3001/reset_password",
+            "runConfirmationFunction": false
+        },
+        "disabled": false
+    }
+}
