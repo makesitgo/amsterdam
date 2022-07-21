@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/amsterdam/static/js/main.3ba76d1c.chunk.js",
-    "main.js.map": "/amsterdam/static/js/main.3ba76d1c.chunk.js.map",
+    "main.js": "/amsterdam/static/js/main.f7cf0ed2.chunk.js",
+    "main.js.map": "/amsterdam/static/js/main.f7cf0ed2.chunk.js.map",
     "runtime-main.js": "/amsterdam/static/js/runtime-main.da8daf8f.js",
     "runtime-main.js.map": "/amsterdam/static/js/runtime-main.da8daf8f.js.map",
-    "static/js/2.c1f908a9.chunk.js": "/amsterdam/static/js/2.c1f908a9.chunk.js",
-    "static/js/2.c1f908a9.chunk.js.map": "/amsterdam/static/js/2.c1f908a9.chunk.js.map",
+    "static/js/2.0e0d9b56.chunk.js": "/amsterdam/static/js/2.0e0d9b56.chunk.js",
+    "static/js/2.0e0d9b56.chunk.js.map": "/amsterdam/static/js/2.0e0d9b56.chunk.js.map",
     "static/js/3.a80f3fec.chunk.js": "/amsterdam/static/js/3.a80f3fec.chunk.js",
     "static/js/3.a80f3fec.chunk.js.map": "/amsterdam/static/js/3.a80f3fec.chunk.js.map",
     "index.html": "/amsterdam/index.html",
-    "static/js/2.c1f908a9.chunk.js.LICENSE.txt": "/amsterdam/static/js/2.c1f908a9.chunk.js.LICENSE.txt"
+    "static/js/2.0e0d9b56.chunk.js.LICENSE.txt": "/amsterdam/static/js/2.0e0d9b56.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.da8daf8f.js",
-    "static/js/2.c1f908a9.chunk.js",
-    "static/js/main.3ba76d1c.chunk.js"
+    "static/js/2.0e0d9b56.chunk.js",
+    "static/js/main.f7cf0ed2.chunk.js"
   ]
 }
