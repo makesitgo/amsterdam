@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/amsterdam/static/js/main.4889a74c.chunk.js",
-    "main.js.map": "/amsterdam/static/js/main.4889a74c.chunk.js.map",
+    "main.js": "/amsterdam/static/js/main.df81f6e2.chunk.js",
+    "main.js.map": "/amsterdam/static/js/main.df81f6e2.chunk.js.map",
     "runtime-main.js": "/amsterdam/static/js/runtime-main.da8daf8f.js",
     "runtime-main.js.map": "/amsterdam/static/js/runtime-main.da8daf8f.js.map",
     "static/js/2.0e0d9b56.chunk.js": "/amsterdam/static/js/2.0e0d9b56.chunk.js",
@@ -14,6 +14,6 @@
   "entrypoints": [
     "static/js/runtime-main.da8daf8f.js",
     "static/js/2.0e0d9b56.chunk.js",
-    "static/js/main.4889a74c.chunk.js"
+    "static/js/main.df81f6e2.chunk.js"
   ]
 }
