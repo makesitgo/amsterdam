@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/amsterdam/static/js/main.5d4a7485.chunk.js",
-    "main.js.map": "/amsterdam/static/js/main.5d4a7485.chunk.js.map",
-    "runtime-main.js": "/amsterdam/static/js/runtime-main.da8daf8f.js",
-    "runtime-main.js.map": "/amsterdam/static/js/runtime-main.da8daf8f.js.map",
-    "static/js/2.0e0d9b56.chunk.js": "/amsterdam/static/js/2.0e0d9b56.chunk.js",
-    "static/js/2.0e0d9b56.chunk.js.map": "/amsterdam/static/js/2.0e0d9b56.chunk.js.map",
-    "static/js/3.a80f3fec.chunk.js": "/amsterdam/static/js/3.a80f3fec.chunk.js",
-    "static/js/3.a80f3fec.chunk.js.map": "/amsterdam/static/js/3.a80f3fec.chunk.js.map",
+    "main.js": "/amsterdam/static/js/main.8ac74bc7.chunk.js",
+    "main.js.map": "/amsterdam/static/js/main.8ac74bc7.chunk.js.map",
+    "runtime-main.js": "/amsterdam/static/js/runtime-main.b72a2bcb.js",
+    "runtime-main.js.map": "/amsterdam/static/js/runtime-main.b72a2bcb.js.map",
+    "static/js/2.f9e434cb.chunk.js": "/amsterdam/static/js/2.f9e434cb.chunk.js",
+    "static/js/2.f9e434cb.chunk.js.map": "/amsterdam/static/js/2.f9e434cb.chunk.js.map",
+    "static/js/3.afdd6dec.chunk.js": "/amsterdam/static/js/3.afdd6dec.chunk.js",
+    "static/js/3.afdd6dec.chunk.js.map": "/amsterdam/static/js/3.afdd6dec.chunk.js.map",
     "index.html": "/amsterdam/index.html",
-    "static/js/2.0e0d9b56.chunk.js.LICENSE.txt": "/amsterdam/static/js/2.0e0d9b56.chunk.js.LICENSE.txt"
+    "static/js/2.f9e434cb.chunk.js.LICENSE.txt": "/amsterdam/static/js/2.f9e434cb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.da8daf8f.js",
-    "static/js/2.0e0d9b56.chunk.js",
-    "static/js/main.5d4a7485.chunk.js"
+    "static/js/runtime-main.b72a2bcb.js",
+    "static/js/2.f9e434cb.chunk.js",
+    "static/js/main.8ac74bc7.chunk.js"
   ]
 }
